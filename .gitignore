@@ -1,0 +1,17 @@
+# 每人各异的 UI 状态 —— 绝不共享（否则天天冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 插件二进制与个人插件状态（含 obsidian-git 自己的 data.json）—— 各成员本地装/配
+.obsidian/plugins/
+
+# 个人主题外观，不强加给全组
+.obsidian/appearance.json
+
+# 杂项
+.trash/
+.DS_Store
+.omc/
+
+# 大文件不进 git（PDF 留在 Zotero）
+*.pdf
