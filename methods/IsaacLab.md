@@ -113,4 +113,5 @@ uv run play    # 回放 / 评估
 - **GitHub 仓库**：https://github.com/isaac-sim/IsaacLab
 
 ## 相关论文 / 笔记
+- 官方论文（arXiv）：[Isaac Lab](https://arxiv.org/abs/2511.04831) — https://arxiv.org/abs/2511.04831
 - [[@ ]] <!-- 之后把基于 IsaacLab 跑过的工作 / 引用 IsaacLab 的论文回链到这里 -->
